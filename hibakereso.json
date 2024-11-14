@@ -1,0 +1,25 @@
+{
+    "characters": [
+        {
+            "name": "Warrior",
+            "level": 5,
+            "health": 100,
+            "attack": 20,
+            "defense": 15
+        },
+        {
+            "name": "Mage",
+            "level": 4,
+            "health": 60,
+            "attack": 30,
+            "defense": 5
+        },
+        {
+            "name": "Archer",
+            "level": 3,
+            "health": 80,
+            "attack": 15,
+            "defense": 10
+        }
+    ]
+}
